@@ -103,9 +103,9 @@ The **HR Analytics Dashboard** is designed to analyze HR data, uncover workforce
 
 ## 📉 Dashboard
 - **Summary**
-## ![image](https://github.com/user-attachments/assets/585b8210-7209-4850-96f7-2f683427c735)
+![image](https://github.com/user-attachments/assets/585b8210-7209-4850-96f7-2f683427c735)
 - **HR Analysis**
-## ![image](https://github.com/user-attachments/assets/3c102d4b-dad1-46a9-be02-a129c52d1b2f)
+![image](https://github.com/user-attachments/assets/3c102d4b-dad1-46a9-be02-a129c52d1b2f)
 ## 📝 Conclusion
 This **HR Analytics Dashboard** empowers HR teams to make **data-driven decisions**, optimize workforce management, and reduce attrition. By leveraging **Power BI** for interactive visualizations and insights, businesses can proactively address workforce challenges. Future improvements, such as **predictive analytics and advanced DAX calculations**, will further enhance the dashboard’s capabilities.
 
