@@ -60,17 +60,17 @@ The **HR Analytics Dashboard** is designed to analyze HR data, uncover workforce
 - Provides a comprehensive **overview of key HR metrics**.
 - **Visuals include:**
   - **Total Employee Count**
-  - ![image](https://github.com/user-attachments/assets/36fcbde5-1441-43ac-9736-160adc0615d5)
+    ![image](https://github.com/user-attachments/assets/36fcbde5-1441-43ac-9736-160adc0615d5)
   - **Employee Distribution by Gender,**
-  - ![image](https://github.com/user-attachments/assets/7128c44c-f6ad-4170-a23f-2ce9fe157ea9)
+    ![image](https://github.com/user-attachments/assets/7128c44c-f6ad-4170-a23f-2ce9fe157ea9)
   - **Age,**
-  - ![image](https://github.com/user-attachments/assets/ae51dc30-28d3-4135-af7e-b2d090ee9a8c)
+    ![image](https://github.com/user-attachments/assets/ae51dc30-28d3-4135-af7e-b2d090ee9a8c)
   - **and Country**
-  - ![image](https://github.com/user-attachments/assets/f3827198-29d3-4bf1-8ca6-e0e449667a24)
+    ![image](https://github.com/user-attachments/assets/f3827198-29d3-4bf1-8ca6-e0e449667a24)
   - **Headcount Trends Over Time**
-  - ![image](https://github.com/user-attachments/assets/9a25a716-e188-4d50-ad56-93ca40896239)
+    ![image](https://github.com/user-attachments/assets/9a25a716-e188-4d50-ad56-93ca40896239)
   - **Department-Wise Breakdown**
-  - ![image](https://github.com/user-attachments/assets/ab7cffde-f8c2-4737-8858-c5af6e3e0204)
+    ![image](https://github.com/user-attachments/assets/ab7cffde-f8c2-4737-8858-c5af6e3e0204)
 
 ### **HR Dashboard Overview:**
 - **Metadata includes:**
@@ -103,9 +103,9 @@ The **HR Analytics Dashboard** is designed to analyze HR data, uncover workforce
 
 ## 📉 Dashboard
 - **Summary**
-- ![image](https://github.com/user-attachments/assets/585b8210-7209-4850-96f7-2f683427c735)
+  ![image](https://github.com/user-attachments/assets/585b8210-7209-4850-96f7-2f683427c735)
 - **HR Analysis**
-- ![image](https://github.com/user-attachments/assets/3c102d4b-dad1-46a9-be02-a129c52d1b2f)
+  ![image](https://github.com/user-attachments/assets/3c102d4b-dad1-46a9-be02-a129c52d1b2f)
 ## 📝 Conclusion
 This **HR Analytics Dashboard** empowers HR teams to make **data-driven decisions**, optimize workforce management, and reduce attrition. By leveraging **Power BI** for interactive visualizations and insights, businesses can proactively address workforce challenges. Future improvements, such as **predictive analytics and advanced DAX calculations**, will further enhance the dashboard’s capabilities.
 
