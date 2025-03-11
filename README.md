@@ -69,10 +69,13 @@ The **HR Analytics Dashboard** is designed to analyze HR data, uncover workforce
   
   ![image](https://github.com/user-attachments/assets/ae51dc30-28d3-4135-af7e-b2d090ee9a8c)
   - **and Country**
+  
   ![image](https://github.com/user-attachments/assets/f3827198-29d3-4bf1-8ca6-e0e449667a24)
   - **Headcount Trends Over Time**
+  
   ![image](https://github.com/user-attachments/assets/9a25a716-e188-4d50-ad56-93ca40896239)
   - **Department-Wise Breakdown**
+  
   ![image](https://github.com/user-attachments/assets/ab7cffde-f8c2-4737-8858-c5af6e3e0204)
 
 ### **HR Dashboard Overview:**
